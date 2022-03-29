@@ -13,7 +13,7 @@ Download WDPA_WDOECM_Mar2022_Public_all_shp.zip from link below
 
 Extract contents of WDPA_WDOECM_Mar2022_Public_all_shp and place contents in inputdir
 
-Download SPAM 2010 v2.0 Global Data Physical Area CSV, extract, and place csv in inputdir 
+Download SPAM 2010 v2.0 Global Data Physical Area CSV, extract, and place directory containing the csv in inputdir 
     https://s3.amazonaws.com/mapspam/2010/v2.0/csv/spam2010v2r0_global_phys_area.csv.zip
     
 
