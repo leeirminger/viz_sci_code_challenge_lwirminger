@@ -16,6 +16,9 @@ Extract contents of WDPA_WDOECM_Mar2022_Public_all_shp and place contents in inp
 Download SPAM 2010 v2.0 Global Data Physical Area CSV, extract, and place directory containing the csv in inputdir 
     https://s3.amazonaws.com/mapspam/2010/v2.0/csv/spam2010v2r0_global_phys_area.csv.zip
     
+Download areas.geojson and place in input folder
+    https://github.com/Vizzuality/science-code-challenge/blob/main/areas.geojson
+    
 
 SUMMARY:
 
